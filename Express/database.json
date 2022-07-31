@@ -1,0 +1,7 @@
+{
+  "attendance": [
+    { "id": "fw17_01", "present_at": "11:40", "modified_time": "12:00" },
+    { "id": "fw17_02", "present_at": "11:42" },
+    { "id": "fw17_03", "present_at": "11:53" }
+  ]
+}
